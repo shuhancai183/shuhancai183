@@ -12,46 +12,44 @@ I build AI systems that connect language models with retrieval, tools, structure
 - Multimodal reasoning and structured generation
 - Dockerized evaluation, pytest workflows, and reproducible ML systems
 
-## Pull Requests & Code Evaluation
+## Code Evaluation & Pull Request Experience
 
-I have submitted coding-evaluation pull requests on real-world repository tasks involving LLM provider adapters, OpenAI-compatible APIs, Dockerized evaluation environments, pytest runners, dependency fixes, and CI/runtime optimization.
+I have experience reading unfamiliar codebases, diagnosing failing tests, improving Dockerized evaluation environments, and validating patches with pytest and reproducible checks.
 
-This work reflects my ability to read unfamiliar codebases, identify failure points, implement targeted patches, and validate changes through reproducible tests.
+My work includes LLM API behavior, provider-adapter logic, test execution, dependency fixes, CI/runtime constraints, and technical response evaluation.
 
-### Selected Pull Requests
+This experience reflects my ability to evaluate AI-generated code and technical outputs for correctness, edge cases, maintainability, reproducibility, and test coverage.
 
-| Pull Request | Repository Task | Engineering Signal |
-|---|---|---|
-| [Streaming tool-call support across Gemini, Bedrock, HuggingFace, Together, and Watsonx](https://github.com/handshake-coding/mozilla-ai__any-llm__710/pull/3) | mozilla-ai / any-llm | Golden solution; multi-provider LLM streaming behavior |
-| [Reasoning parameters for Chat Completions and Responses APIs](https://github.com/handshake-coding/exo-explore__exo__1654/pull/3) | exo-explore / exo | Golden solution; OpenAI-compatible API behavior |
-| [Fix Helix pytest runner and include tests](https://github.com/handshake-coding/mozilla-ai__any-llm__710/pull/2) | mozilla-ai / any-llm | Dockerized test execution and evaluation setup |
-| [Reduce Docker evaluation image size](https://github.com/handshake-coding/exo-explore__exo__1654/pull/5) | exo-explore / exo | CI/runtime optimization under disk constraints |
-
-[View all public pull requests](https://github.com/search?q=is%3Apr%20author%3Ashuhancai183&type=pullrequests)
+[View public pull requests](https://github.com/search?q=is%3Apr%20author%3Ashuhancai183&type=pullrequests)
 
 ## Featured Projects
 
 ### Autonomous Coding Agent
+
 A tool-driven coding agent that reads a local codebase, diagnoses failing tests, proposes patches, and validates fixes through a test-driven loop.
 
 **Keywords:** coding agents, test-driven repair, codebase reasoning, tool use, automated debugging
 
 ### RAG Query Rewriting Evaluation
+
 A reproducible RAG evaluation framework comparing baseline retrieval, single-query rewriting, multi-query expansion, and reflective rewriting across retrieval strategies.
 
 **Keywords:** RAG evaluation, query rewriting, retrieval quality, hallucination analysis, answer accuracy
 
 ### GraphRAG Tutor
+
 A web-to-knowledge-graph tutoring prototype using concept extraction, graph construction, and knowledge-grounded question answering.
 
 **Keywords:** GraphRAG, knowledge graphs, Neo4j, MongoDB, educational AI, grounded QA
 
 ### Multimodal Science Reasoning
+
 A SmolVLM + DoRA-LoRA fine-tuning project for multimodal reasoning under limited compute and competition constraints.
 
 **Keywords:** multimodal AI, VLM fine-tuning, DoRA-LoRA, science reasoning, model evaluation
 
 ### Text-to-SVG Generation
+
 A structured generation project combining text-conditioned SVG generation with validation, retrieval-based correction, and failure analysis.
 
 **Keywords:** structured generation, SVG validity, retrieval replacement, ablation, leaderboard evaluation
